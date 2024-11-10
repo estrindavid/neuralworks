@@ -266,4 +266,3 @@ class SigmoidFunction {
     }
 }
 module.exports = NeuralNetwork;
-//# sourceMappingURL=library.js.map
