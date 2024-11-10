@@ -1,5 +1,4 @@
 "use strict";
-
 class NeuralNetwork {
     _inputNodes;
     _hiddenNodes;
@@ -266,4 +265,5 @@ class SigmoidFunction {
         return y * (1 - y);
     }
 }
+module.exports = NeuralNetwork;
 //# sourceMappingURL=library.js.map
