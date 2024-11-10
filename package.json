@@ -1,0 +1,46 @@
+{
+  "name": "neuralworks",
+  "version": "1.0.0",
+  "description": "NeuralWorks is a lightweight, modular Typescript library for building and deploying neural networks and machine learning models directly in the browser. Designed for simplicity and flexibility, NeuralWorks empowers developers to create and train models with ease, without needing complex dependencies.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/estrindavid/neuralworks.git)"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "neural",
+    "networks",
+    "neuralworks",
+    "javascript",
+    "typescript",
+    "browser",
+    "ml",
+    "ai",
+    "lightweight",
+    "modular",
+    "machine",
+    "learning",
+    "library",
+    "neural",
+    "network",
+    "library",
+    "deep",
+    "learning",
+    "web",
+    "ml",
+    "in",
+    "browser",
+    "client-side",
+    "ml",
+    "frontend",
+    "machine",
+    "learning"
+  ],
+  "author": "David Estrin <estrinedavid@gmail.com>",
+  "license": "MIT"
+}
