@@ -1,6 +1,3 @@
-
-```markdown
-
 # NeuralWorks
 
   
@@ -39,7 +36,19 @@ npm  install  neuralworks
 
 ```
 
-  
+## Project Structure
+
+The project is organized as follows:
+
+- **`src/`**: Contains the source code for the library.
+  - **`index.js`**: Main file containing the core functionality of the library.
+
+- **`LICENSE`**: The open-source license for the project.
+
+- **`README.md`**: The documentation file you are currently reading, providing details about the library and usage.
+
+- **`package.json`**: Defines project metadata, dependencies, and scripts.
+
 
 ## Usage
 
