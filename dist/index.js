@@ -1,20 +1,5 @@
 "use strict";
-/**
- * Day 4-7: Coding a Multi-Perceptron Neural Network
- * Creating my own library to solve actual machine learning problems that require multiple perceptrons
- * or hidden layers.
- * Results are accurate.
- * To code this I had to watch a 18 hour+ course to learn about the linear algebra (Matrixs) involved and learn
- * how multi-perceptron neural networks work.
- * That hardest part was to implement the training model and to figure out what biases/weights to change.
- * One thing that I will improve in the future is to fix the way that the weights/biases are calculated at the start
- * by removing the randomization and adding the more up to date formulas used to minimize training time.
- * Coded 100% myself using this video series https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh
- * as a guide.
- * (Videos 10.1-10.18)
- * More information about the linear algebra I learned will be posted along with my assignment in the form of
- * my notes.
-*/
+
 class NeuralNetwork {
     _inputNodes;
     _hiddenNodes;
