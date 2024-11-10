@@ -5,7 +5,9 @@
 
   
 
-**NeuralWorks** is a lightweight, modular Javascript library designed to create and train neural networks directly in the browser or on Node.js environments. With a focus on simplicity and flexibility, NeuralWorks empowers developers to build neural networks without the need for complex dependencies.
+**NeuralWorks** is a lightweight, modular JavaScript library designed to create and train neural networks 
+directly in the browser or on Node.js environments. With a focus on simplicity and flexibility, 
+NeuralWorks empowers developers to build neural networks without the need for complex dependencies.
 
   
 
